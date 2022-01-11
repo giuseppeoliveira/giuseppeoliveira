@@ -14,6 +14,8 @@
 <p></p>
 <h3 align="left"> Connect with me: </h3>
 
+> https://linktr.ee/giuseppeoliveira
+
 
 <p></p>
 <h3 align="left"> Knowledges: </h3>
