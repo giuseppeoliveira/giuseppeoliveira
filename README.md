@@ -4,9 +4,9 @@
 <p></p>
 
 - 🔭 I’m currently working on **my personal projects on GitHub**
-- 🌱 I’m currently learning **jQuery, PHP, SASS**
+- 🌱 I’m currently learning **React, SASS, Node JS**
 - 👨‍💻 All of my projects are available at [https://github.com/giuseppeoliveira](https://github.com/giuseppeoliveira)
-- 💬 Ask me about **JS, CSS, HTML**
+- 💬 Ask me about **JS, CSS, HTML, jQuery**
 - 📫 How to reach me **giuseppe_santos@hotmail.com**
 - 📄 Know about my experiences [https://linktr.ee/giuseppeoliveira](https://linktr.ee/giuseppeoliveira)
 - ⚡ Fun fact **I like play cello, listen synthwave an read about cosmos.**
