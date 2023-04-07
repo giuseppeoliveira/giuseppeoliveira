@@ -4,7 +4,7 @@
 <p></p>
 
 - 🔭 I’m currently working on **my personal projects on GitHub**
-- 🌱 I’m currently learning **React, SASS, Node JS**
+- 🌱 I’m currently learning **C, C#**
 - 👨‍💻 All of my projects are available at [https://github.com/giuseppeoliveira](https://github.com/giuseppeoliveira)
 - 💬 Ask me about **JS, CSS, HTML, jQuery**
 - 📫 How to reach me **giuseppe_santos@hotmail.com**
