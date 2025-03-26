@@ -5,17 +5,10 @@
 
 - 🔭 I’m currently working on **my personal projects on GitHub**
 - 🌱 I’m currently learning **C, C#**
-- 👨‍💻 All of my projects are available at [https://github.com/giuseppeoliveira](https://github.com/giuseppeoliveira)
 - 💬 Ask me about **JS, CSS, HTML, jQuery**
-- 📫 How to reach me **giuseppe_santos@hotmail.com**
-- 📄 Know about my experiences [https://linktr.ee/giuseppeoliveira](https://linktr.ee/giuseppeoliveira)
 - ⚡ Fun fact **I like play cello, listen synthwave an read about cosmos.**
 
 <p></p>
-<h3 align="left"> Connect with me: </h3>
-
-> https://linktr.ee/giuseppeoliveira
-
 
 <p></p>
 <h3 align="left"> Knowledges: </h3>
