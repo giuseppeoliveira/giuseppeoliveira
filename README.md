@@ -24,5 +24,4 @@
 <p></p>
 <h3 align="left"> My Git Status: </h3>
 
-[![card](https://github-readme-stats.vercel.app/api?username=giuseppeoliveira&theme=Synthwave&show_icons=true)](https://github.com/iuricode/)  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeoliveira&hide=html&layout=Synthwave&theme=default)](https://github.com/iuricode/)
-
+[![card](https://github-readme-stats.vercel.app/api?username=giuseppeoliveira&theme=Synthwave&show_icons=true)](https://github.com/iuricode/) 
