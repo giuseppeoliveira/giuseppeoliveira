@@ -1,12 +1,16 @@
-<h1 align="left">Hi 👋, I'm Giuseppe Oliveira</h1>
-<h3 align="left">A passionate frontend developer from Brazil.</h3>
+# 👋 Olá! Eu sou Giuseppe
 
-<p></p>
+🎓 Estudante de Sistemas de Informação | 💻 Desenvolvedor Full Stack  
+🚀 Experiência com C#, .NET, TypeScript, React, Node.js  
+🔐 Foco em back-end, APIs REST, bancos relacionais e segurança de sistemas  
+📦 Versionamento com Git, integração com Vindi, Firebase, Keycloak e Swagger  
+🧠 Explorando IA generativa, boas práticas de código e arquitetura de software
 
-- 🔭 I’m currently working on **my personal projects on GitHub**
-- 🌱 I’m currently learning **C, C#**
-- 💬 Ask me about **JS, CSS, HTML, jQuery**
-- ⚡ Fun fact **I like play cello, listen synthwave an read about cosmos.**
+## 💼 Projetos Recentes
+- Plataforma de cursos online (TypeScript + Vindi + autenticação e segurança)
+- Sistema de financiamento estudantil (C# + .NET + APIs REST)
+- Suporte a sistemas com consultas SQL (MySQL, Oracle)
+
 
 <p></p>
 
