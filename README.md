@@ -1,39 +1,38 @@
-# 👋 Olá, eu sou o Giuseppe
+# 👋 Olá, sou...
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Giuseppe%20Oliveira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-Sou apaixonado por **tecnologia, dados e boas práticas de desenvolvimento**. Aqui você vai encontrar meus projetos, estudos e experimentos em **engenharia de software, análise de sistemas e data analysis com Python**.  
+Sou **Engenheiro de Software e Analista de Dados** apaixonado por tecnologia, inovação e boas práticas de desenvolvimento. Tenho experiência em projetos de **Full Stack, Data Analysis** e **Cloud Computing**, com foco em gerar valor real para negócios através da tecnologia.
+
+- **Experiência:** +3 anos em desenvolvimento de software, atuando em times multidisciplinares e ambientes colaborativos.
+- **Diferenciais:** Forte capacidade analítica, facilidade de adaptação, perfil autodidata e comprometido com entregas de qualidade.
+- **Buscando:** Oportunidades para atuar em projetos desafiadores e inovadores, colaborando com profissionais que compartilham o interesse por tecnologia e excelência.
 
 ---
 
-💻 **Linguagens mais usadas**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeoliveira&layout=compact&theme=tokyonight)  
+💻 **Principais Tecnologias e Ferramentas**  
+- C# (.NET), Node.js, TypeScript, React  
+- SQL (MySQL, Oracle, DBeaver)  
+- Git/GitHub, Docker, CI/CD  
+- Python (Pandas, NumPy, Matplotlib)  
+- Cloud: Oracle Cloud (OCI, Autonomous Database)  
 
-🔥 **Streak de Commits**  
+---
+
+✨ **Destaques dos meus projetos**
+- [YT-Downloader](https://github.com/giuseppeoliveira/YT-Downloader): Aplicação para baixar videos em sequeência do YT.
+- [MP3Downloader](https://github.com/giuseppeoliveira/MP3Downloader): Aplicação para download de MP3 de forma simples e eficiente, direto do YT.
+- [CampusPartySE2025](https://github.com/giuseppeoliveira/CampusPartySE2025): ChatBot que auxilia apenas em serviços do governo, para pessoas que tem dificuldade com tecnologia. [Projeto da Campus Party 2025]
+
+---
+
+📈 **Estatísticas do GitHub**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppeoliveira&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=giuseppeoliveira&theme=tokyonight)  
 
 ---
 
-🚀 **Tecnologias que utilizo**  
-- C# (.NET), Node.js, TypeScript, React  
-- SQL (MySQL, Oracle, DBeaver)  
-- Git/GitHub, Docker, CI/CD  
-- Python (em aprendizado): Pandas, NumPy, Matplotlib  
-- Cloud: Oracle Cloud (OCI, Autonomous Database)  
-
-📌 **O que você vai ver por aqui**  
-- Projetos práticos em **Full Stack e Data Analysis**  
-- Estudos aplicados em **Python, SQL e Cloud**  
-- Aplicação de **boas práticas de engenharia de software**  
-- Integrações experimentais com **IA generativa**  
-
----
-
-📊 **Estatísticas do GitHub**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giuseppeoliveira&show_icons=true&theme=tokyonight)  
-
-
-🔗 **Conecte-se comigo**  
+🔗 **Vamos nos conectar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gsdo/)  
 
 ---
