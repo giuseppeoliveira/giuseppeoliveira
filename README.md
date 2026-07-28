@@ -2,9 +2,9 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Giuseppe%20Oliveira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-Sou **Engenheiro de Software e Analista de Dados** apaixonado por tecnologia, inovação e boas práticas de desenvolvimento. Tenho experiência em projetos de **Full Stack, Data Analysis** e **Cloud Computing**, com foco em gerar valor real para negócios através da tecnologia.
+Sou **Engenheiro de Software ** apaixonado por tecnologia, inovação e boas práticas de desenvolvimento. Tenho experiência em projetos de **Full Stack, Data Analysis** e **Cloud Computing**, com foco em gerar valor real para negócios através da tecnologia.
 
-- **Experiência:** +3 anos em desenvolvimento de software, atuando em times multidisciplinares e ambientes colaborativos.
+- **Experiência:** +5 anos em desenvolvimento de software, atuando em times multidisciplinares e ambientes colaborativos.
 - **Diferenciais:** Forte capacidade analítica, facilidade de adaptação, perfil autodidata e comprometido com entregas de qualidade.
 - **Buscando:** Oportunidades para atuar em projetos desafiadores e inovadores, colaborando com profissionais que compartilham o interesse por tecnologia e excelência.
 
