@@ -1,6 +1,6 @@
 # 👋 Olá, sou...
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Giuseppe%20Oliveira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=G%20a&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 Sou **Engenheiro de Software ** apaixonado por tecnologia, inovação e boas práticas de desenvolvimento. Tenho experiência em projetos de **Full Stack, Data Analysis** e **Cloud Computing**, com foco em gerar valor real para negócios através da tecnologia.
 
